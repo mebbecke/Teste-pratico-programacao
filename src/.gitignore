@@ -1,0 +1,72 @@
+```gitignore
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nblibraries.properties
+
+# Eclipse
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+bin/
+tmp/
+
+# IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Gradle
+.gradle/
+build/
+
+# Maven
+target/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Windows-specific files
+*.bat
+*.cmd
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# macOS
+*.DS_Store
+
+# Linux
+*~
+
+# Others
+*.swp
+
